@@ -28,7 +28,7 @@ I'm fascinated by:
 
 Here are some of the projects I'm working on:
 
-1. **YelpCamp Project (In Progress)**
+1. **YelpCamp Project**
    - [Link to Project](https://github.com/kaushalkahapola/YelpCamp2024)
    - Technologies Used: Node.js, MongoDB
 
