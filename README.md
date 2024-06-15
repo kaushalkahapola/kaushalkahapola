@@ -24,22 +24,14 @@ I'm fascinated by:
 - **Technologies:** React.js, Node.js, MongoDB, MySQL
 - **Tools:** Visual Studio Code, Git
 
-## Projects
-
-Here are some of the projects I'm working on:
-
-1. **YelpCamp Project**
-   - [Link to Project](https://github.com/kaushalkahapola/YelpCamp2024)
-   - Technologies Used: Node.js, MongoDB
-
 ## Let's Connect!
 
-- 📫 Reach me via [Email](mailto:kaushal.21@cse.mrt.ac.lk) or [LinkedIn](www.linkedin.com/in/kaushal-kahapola-75b754289)
+- 📫 Reach me via [Email](mailto:kaushal.21@cse.mrt.ac.lk).
 
 Excited to connect with fellow students, developers, and tech enthusiasts! Let's learn and grow together. 🚀
 
 
 <!---
 kaushalkahapola/kaushalkahapola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. or [LinkedIn](www.linkedin.com/in/kaushal-kahapola-75b754289)
 --->
