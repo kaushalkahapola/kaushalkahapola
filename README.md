@@ -1,37 +1,45 @@
-# Hi there, I'm Kaushal Kahapola! 👋
+<!-- Title and Introduction -->
+# Hi there! 👋 I'm Kaushal Kahapola
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaushal-kahapola/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kaushalkahapola) 
 
-I'm a student and aspiring software developer, passionate about coding and technology. Currently embarking on my journey to build a solid foundation in the tech industry.
+I'm a passionate Data Science and Engineering undergraduate with a love for turning data into insights! 🌟 I enjoy learning about machine learning, data analysis, and software development. Here you can find my projects, experiences, and anything else related to my journey in the world of data. 
 
-## About Me
+<!-- About Me Section -->
+## 🚀 About Me
+- 🔭 I’m currently working on [**Book Match**](https://github.com/lckariyawasam/book-recsys-webapp), a book recommendation platform that uses machine learning algorithms to suggest books based on user preferences and reading history. The project consists of:
+  - A **machine learning model** available in this repository: [**Model Repository**](https://github.com/lckariyawasam/book-recsys-model).
+  - A **web application** available in this repository: [**Web App Repository**](https://github.com/lckariyawasam/book-recsys-webapp).
+- 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing (NLP)**, specifically using TensorFlow and PyTorch for model building.
+- 👯 I’m looking to collaborate on **data analysis projects** and **machine learning applications** that focus on enhancing user experience through data-driven insights.
+- 💬 Ask me about **data visualization**, **data preprocessing**, and **building machine learning models** using Python.
+- 📫 How to reach me: [kaushal.21@cse.mrt.ac.lk](mailto:kaushal.21@cse.mrt.ac.lk).
 
-- 📚 Studying Computer Science and Engineering at University of Moratuwa, Sri Lanka.
-- 👨‍💻 Eager to learn and apply coding skills to real-world projects.
-- 💬 Open to collaborative learning and exploring opportunities in web development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an Film Buff and love solving coding challenges.
+<!-- Skills Section -->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-## Interests
+<!-- Projects Section -->
+## 🌟 Projects
+Here are a few projects that I have worked on:
 
-I'm fascinated by:
-
-- Full-stack web development
-- Artificial Intelligence and Machine Learning
-- Data Science
-
-## Skills
-
-- **Programming Languages:** Python, JavaScript, C++, Java
-- **Technologies:** React.js, Node.js, MongoDB, MySQL
-- **Tools:** Visual Studio Code, Git
-
-## Let's Connect!
-
-- 📫 Reach me via [Email](mailto:kaushal.21@cse.mrt.ac.lk).
-
-Excited to connect with fellow students, developers, and tech enthusiasts! Let's learn and grow together. 🚀
+1. [**Book Match**](https://github.com/lckariyawasam/book-recsys-model):  a book recommendation platform that uses machine learning algorithms to suggest books based on user preferences and reading history.
+2. [**Dog-Breed-Classification**](https://github.com/kaushalkahapola/Dog-Breed-Classification): a classification model for identifying dog breeds.
+3. [**Flower-Trading-System**](https://github.com/kaushalkahapola/LSEG---FlowerExchange): a system for processing buy/sell orders, maintaining an order book, and generating execution reports.
+4. [**RPAL-language-Interpreter**](https://github.com/kaushalkahapola/RPAL-language-Interpreter): Developed a Java lexical analyzer and parser for RPAL, focusing on AST to ST conversion and designing the Control Stack Environment (CSE) machine.
 
 
-<!---
-kaushalkahapola/kaushalkahapola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. or [LinkedIn](www.linkedin.com/in/kaushal-kahapola-75b754289)
---->
+<!-- Contact Section -->
+## 📫 Let's Connect!
+Feel free to reach out to me via:
+- Email: [kaushal.21@cse.mrt.ac.lk](mailto:kaushal.21@cse.mrt.ac.lk)
+- LinkedIn: [kaushal-kahapola](https://www.linkedin.com/in/kaushal-kahapola/)
+
+Thanks for visiting my profile! 🌟
