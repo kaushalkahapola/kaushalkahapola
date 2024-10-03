@@ -31,9 +31,8 @@ I'm a passionate Data Science and Engineering undergraduate with a love for turn
 Here are a few projects that I have worked on:
 
 1. [**Book Match**](https://github.com/lckariyawasam/book-recsys-model):  a book recommendation platform that uses machine learning algorithms to suggest books based on user preferences and reading history.
-2. [**Dog-Breed-Classification**](https://github.com/kaushalkahapola/Dog-Breed-Classification): a classification model for identifying dog breeds.
-3. [**Flower-Trading-System**](https://github.com/kaushalkahapola/LSEG---FlowerExchange): a system for processing buy/sell orders, maintaining an order book, and generating execution reports.
-4. [**RPAL-language-Interpreter**](https://github.com/kaushalkahapola/RPAL-language-Interpreter): Developed a Java lexical analyzer and parser for RPAL, focusing on AST to ST conversion and designing the Control Stack Environment (CSE) machine.
+2. [**Flower-Trading-System**](https://github.com/kaushalkahapola/LSEG---FlowerExchange): a system for processing buy/sell orders, maintaining an order book, and generating execution reports.
+3. [**RPAL-language-Interpreter**](https://github.com/kaushalkahapola/RPAL-language-Interpreter): Developed a Java lexical analyzer and parser for RPAL, focusing on AST to ST conversion and designing the Control Stack Environment (CSE) machine.
 
 
 <!-- Contact Section -->
