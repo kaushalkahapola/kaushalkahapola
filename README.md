@@ -26,13 +26,6 @@ I'm a passionate Data Science and Engineering undergraduate with a love for turn
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-<!-- Projects Section -->
-## 🌟 Projects
-Here are a few projects that I have worked on:
-
-1. [**Book Match**](https://github.com/lckariyawasam/book-recsys-model):  a book recommendation platform that uses machine learning algorithms to suggest books based on user preferences and reading history.
-2. [**Flower-Trading-System**](https://github.com/kaushalkahapola/LSEG---FlowerExchange): a system for processing buy/sell orders, maintaining an order book, and generating execution reports.
-3. [**RPAL-language-Interpreter**](https://github.com/kaushalkahapola/RPAL-language-Interpreter): Developed a Java lexical analyzer and parser for RPAL, focusing on AST to ST conversion and designing the Control Stack Environment (CSE) machine.
 
 
 <!-- Contact Section -->
