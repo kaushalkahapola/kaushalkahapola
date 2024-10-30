@@ -3,18 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaushal-kahapola/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kaushalkahapola) 
 
-I'm a passionate Data Science and Engineering undergraduate with a love for turning data into insights! I enjoy learning about machine learning, data analysis, and software development. Here you can find my projects, experiences, and anything else related to my journey in the world of data. 
+I'm a dedicated Computer Science and Engineering undergraduate with a strong interest in data science, software engineering, and machine learning. My passion is in transforming data into meaningful insights and building robust, user-friendly applications. Here, you can explore my projects, experiences, and insights as I navigate through the dynamic fields of computing and technology.
 
 <!-- About Me Section -->
-## About Me
-- I’m currently working on [**Book Match**](https://github.com/lckariyawasam/book-recsys-webapp), a book recommendation platform that uses machine learning algorithms to suggest books based on user preferences and reading history. The project consists of:
-  - A **machine learning model** available in this repository: [**Model Repository**](https://github.com/lckariyawasam/book-recsys-model).
-  - A **web application** available in this repository: [**Web App Repository**](https://github.com/lckariyawasam/book-recsys-webapp).
-- I’m currently learning **Deep Learning** and **Natural Language Processing (NLP)**, specifically using TensorFlow and PyTorch for model building.
-- I’m looking to collaborate on **data analysis projects** and **machine learning applications** that focus on enhancing user experience through data-driven insights.
-- Ask me about **data visualization**, **data preprocessing**, and **building machine learning models** using Python.
-- How to reach me: [kaushal.21@cse.mrt.ac.lk](mailto:kaushal.21@cse.mrt.ac.lk).
-
 <!-- Skills Section -->
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
