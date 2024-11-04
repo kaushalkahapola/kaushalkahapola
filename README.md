@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaushal-kahapola/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kaushalkahapola) 
 
-I'm a dedicated Computer Science and Engineering undergraduate with a strong interest in data science, software engineering, and machine learning. My passion is in transforming data into meaningful insights and building robust, user-friendly applications. Here, you can explore my projects, experiences, and insights as I navigate through the dynamic fields of computing and technology.
+I'm a dedicated Computer Science and Engineering undergraduate. Here, you can explore my projects, experiences, and insights as I navigate through the dynamic fields of computing and technology.
 
 <!-- About Me Section -->
 <!-- Skills Section -->
