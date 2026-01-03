@@ -8,6 +8,7 @@ I'm a dedicated Computer Science and Engineering undergraduate. Here, you can ex
 <!-- About Me Section -->
 <!-- Skills Section -->
 ## Skills
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=TensorFlow&logoColor=white)
